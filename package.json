@@ -1,5 +1,5 @@
 {
-  "name": "react-idle-timer",
+  "name": "@karltud123/react-idle-timer",
   "version": "5.7.2",
   "type": "module",
   "description": "Activity detection for React.js",
